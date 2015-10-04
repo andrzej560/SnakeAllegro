@@ -1,0 +1,22 @@
+﻿Build started 2014-09-16 12:38:59.
+     1>Project "C:\Users\g41\Documents\Visual Studio 2012\Projects\Snake_2player\Snake_Allegro\Snake_Allegro.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\g41\Documents\Visual Studio 2012\Projects\Snake_2player\Debug\Snake_Allegro.exe" /INCREMENTAL /NOLOGO alld.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\g41\Documents\Visual Studio 2012\Projects\Snake_2player\Debug\Snake_Allegro.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\g41\Documents\Visual Studio 2012\Projects\Snake_2player\Debug\Snake_Allegro.lib" /MACHINE:X86 Debug\Bonus.obj
+         Debug\Napis.obj
+         Debug\Ob_Dynamiczny.obj
+         Debug\Ob_Graficzny.obj
+         Debug\Ob_Statyczny.obj
+         Debug\Owoc.obj
+         Debug\Reakcja.obj
+         Debug\Snake.obj
+         Debug\Snake2.obj
+         Debug\Source.obj
+         Snake_Allegro.vcxproj -> C:\Users\g41\Documents\Visual Studio 2012\Projects\Snake_2player\Debug\Snake_Allegro.exe
+     1>Done Building Project "C:\Users\g41\Documents\Visual Studio 2012\Projects\Snake_2player\Snake_Allegro\Snake_Allegro.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.24
